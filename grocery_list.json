@@ -1,7 +1,5 @@
 [
     {"item": "Milk", "category": "Dairy", "price": 2.50},
     {"item": "Bread", "category": "Bakery", "price": 1.50},
-    {"item": "Apple", "category": "Fruits", "price": 0.80},
-    {"item": "Eggs", "category": "Dairy", "price": 3.00},
-    {"item": "Chicken", "category": "Meat", "price": 5.00}
+    {"item": "Apple", "category": "Fruits", "price": 0.80}
 ]
